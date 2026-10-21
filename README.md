@@ -4,10 +4,6 @@
 
 Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con **Mención en Tecnologías de la Información**. Me estoy formando en infraestructura, sistemas y desarrollo de software, y mi objetivo es especializarme en **análisis de datos** y aplicarlo al **mundo del motor**.
 
-- 🎓 **Próximamente:** TFG (el próximo curso)
-- 🏗️ **Actualmente:** proyecto de Infraestructura Virtual
-- 📈 **Aprendiendo:** análisis de datos
-
 ---
 
 ## 🛠️ Tecnologías
