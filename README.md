@@ -1,73 +1,52 @@
-<div align="center">
-
-# Hola, soy Luis Pérez Velasco 👋
-
-### Estudiante de Ingeniería Informática · Universidad de Granada
-
-Tecnologías de la información · Seguridad en redes · Producción multimedia · Análisis de datos
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisperezvelasco545@gmail.com)
-
-</div>
-
----
+# 👋 Hola, soy Luis Pérez Velasco
 
 ## 🧑‍💻 Sobre mí
 
-Estoy estudiando **Ingeniería Informática en la Universidad de Granada (UGR)**. Me muevo entre dos mundos que me apasionan: el **Análisis de datos** y la **seguridad en redes** 
+Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con **Mención en Tecnologías de la Información**. Me estoy formando en infraestructura, sistemas y desarrollo de software, y mi objetivo es especializarme en **análisis de datos** y aplicarlo al **mundo del motor**.
 
-Me gusta construir productos completos de principio a fin: desde la app y su backend hasta el despliegue, pasando por la seguridad y el rendimiento.
-
-- 🎓 Preparando mi **TFG** y cerrando la carrera
-- 🔭 Buscando mi **primera oportunidad profesional** (prácticas / junior)
-- 📍 Granada, España
+- 🎓 **Próximamente:** TFG (el próximo curso)
+- 🏗️ **Actualmente:** proyecto de Infraestructura Virtual
+- 📈 **Aprendiendo:** análisis de datos
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Tecnologías
+
+**Redes y seguridad** ![Suricata IDS](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square) ![iptables](https://img.shields.io/badge/iptables-4A6FA5?style=flat-square)
+
+**Infraestructura y sistemas** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Lenguajes** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-## 🛠️ Stack tecnológico
+## 📂 Proyectos destacados
 
-**Móvil y frontend**
-
-![React Native](https://skillicons.dev/icons?i=react,ts,js)
-
-**Backend y bases de datos**
-
-![Backend](https://skillicons.dev/icons?i=python,fastapi,supabase,postgres)
-
-**Infraestructura y seguridad**
-
-![Infra](https://skillicons.dev/icons?i=docker,nginx,apache,linux,bash)
-
-**Herramientas**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [IV](https://github.com/LuisPV05/LuisMecanico) | Proyecto de Infraestructura Virtual (curso 2026-27). | — |
 
 ---
 
-## 🎬 Más allá del código
+## 🎓 Certificaciones
 
-Además de programar, 
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=LuisPV05&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPV05&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- _Pendiente de añadir_
 
 ---
 
-## 📫 Contacto
+## 🌍 Idiomas
 
-¿Tienes una oportunidad, una idea o simplemente quieres charlar de tecnología? Escríbeme:
+- 🇪🇸 Español: nativo
+- 🇬🇧 Inglés: _pendiente de añadir_
 
-- 💼 LinkedIn: [TU_LINKEDIN](TU_LINKEDIN)
-- 📧 Email: TU_EMAIL
+---
+
+## 🏁 Más allá del código
+
+Me gusta hacer deporte y moverme: actualmente voy al **gimnasio**. Y soy un apasionado del **mundo del motor**, que es donde quiero acabar aplicando lo que aprendo.
+
+---
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub de Luis](https://github-readme-stats.vercel.app/api?username=LuisPV05&show_icons=true&theme=default&hide_border=true)
