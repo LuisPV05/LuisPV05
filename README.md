@@ -12,11 +12,11 @@ Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con *
 
 ## 🛠️ Tecnologías
 
-**Redes y seguridad** ![Suricata IDS](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square) ![iptables](https://img.shields.io/badge/iptables-4A6FA5?style=flat-square)
+**Redes y seguridad** ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![iptables](https://img.shields.io/badge/iptables-4A6FA5?style=flat-square) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white) ![Suricata IDS](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white)
 
 **Infraestructura y sistemas** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Lenguajes** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Lenguajes** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
@@ -29,15 +29,15 @@ Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con *
 ---
 
 ## 🎓 Certificaciones
-
-- _Pendiente de añadir_
+- C1 Advanced (CAE) — Cambridge English · julio 2023
 
 ---
 
 ## 🌍 Idiomas
 
 - 🇪🇸 Español: nativo
-- 🇬🇧 Inglés: _pendiente de añadir_
+- 🇬🇧 Inglés: C1
+- 🇩🇪 Alemán: nivel básico
 
 ---
 
