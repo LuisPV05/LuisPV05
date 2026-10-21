@@ -22,6 +22,8 @@ Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con *
 |---|---|---|
 | [IV](https://github.com/LuisPV05/LuisMecanico) | Proyecto de Infraestructura Virtual (curso 2026-27). | — |
 | [Kmer](https://github.com/LuisPV05/MP_Luis) | Proyecto de Metodología de la Programación(curso 2023-24). | C++ |
+| [Irrgarten](https://github.com/LuisPV05/Irrgarten) | Proyecto de Programación y Diseño Orientado a Objetos(curso 2024-25). | Java |
+| [Suricara IDS](https://github.com/Carlitros20/suricata-ids-lab) | Proyecto de Servicios Web de Altas Prestaciones(curso 2025-26). | Suricata · Docker · iptables · OpenSSL |
 
 ---
 
