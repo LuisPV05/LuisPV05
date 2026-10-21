@@ -25,6 +25,7 @@ Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con *
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [IV](https://github.com/LuisPV05/LuisMecanico) | Proyecto de Infraestructura Virtual (curso 2026-27). | — |
+| [Kmer](https://github.com/LuisPV05/MP_Luis) | Proyecto de Metodología de la Programación(curso 2023-24). | C++ |
 
 ---
 
