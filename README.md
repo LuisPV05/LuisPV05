@@ -47,12 +47,6 @@ Me interesa especialmente el análisis de datos y su aplicación a la ingenierí
 
 ---
 
-## 🏁 Más allá del código
-
-Me gusta hacer deporte y moverme: actualmente voy al **gimnasio**. Y soy un apasionado del **mundo del motor**, que es donde quiero acabar aplicando lo que aprendo.
-
----
-
 ## 📊 Estadísticas
 
 ![Estadísticas de GitHub de Luis](https://github-readme-stats.vercel.app/api?username=LuisPV05&show_icons=true&theme=default&hide_border=true)
