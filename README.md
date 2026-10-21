@@ -30,6 +30,7 @@ Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con *
 
 ## 🎓 Certificaciones
 - C1 Advanced (CAE) — Cambridge English · julio 2023
+- MATLAB Onramp — MathWorks Training Services · octubre 2026 · [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a8a5e95a-ddc7-48d9-b7e7-18a6fa57c5bf&)
 
 ---
 
