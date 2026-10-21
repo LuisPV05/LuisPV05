@@ -2,7 +2,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Estudiante de Ingeniería Informática en la Universidad de Granada (UGR), con **Mención en Tecnologías de la Información**. Me estoy formando en infraestructura, sistemas y desarrollo de software, y mi objetivo es especializarme en **análisis de datos** y aplicarlo al **mundo del motor**.
+Soy estudiante de último curso de Ingeniería Informática en la Universidad de Granada (UGR), con Mención en Tecnologías de la Información. A lo largo de mi formación he adquirido conocimientos en programación, infraestructura y sistemas, y desarrollo de software.
+
+Me interesa especialmente el análisis de datos y su aplicación a la ingeniería, con el objetivo de orientar mi carrera profesional hacia el motorsport, especialmente en áreas como el análisis de telemetría y el rendimiento en competición.
 
 ---
 
