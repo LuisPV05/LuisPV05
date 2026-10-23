@@ -30,6 +30,7 @@ Me interesa especialmente el análisis de datos y su aplicación a la ingenierí
 | [Kmer](https://github.com/LuisPV05/MP_Luis) | Proyecto de Metodología de la Programación(curso 2023-24). Implementación de prácticas de programación en C++ centradas en el procesamiento de secuencias de ADN mediante Kmers | C++ |
 | [Irrgarten](https://github.com/LuisPV05/Irrgarten) | Proyecto de Programación y Diseño Orientado a Objetos(curso 2024-25). | Java |
 | [Suricara IDS](https://github.com/Carlitros20/suricata-ids-lab) | Proyecto de Servicios Web de Altas Prestaciones(curso 2025-26). IDS de red con Suricata sobre una granja web Docker (Nginx + 8×Apache): 37 reglas de detección propias y laboratorio de ataque con Kali Linux. | Suricata · Docker · iptables · OpenSSL |
+| [EleccionMasterAndlucia](https://github.com/LuisPV05/EleccionMasterAndalucia) | Objetivo-2 del Proyecto de Infraestructura Virtual (curso 2026-27). Desarrollo del modelo de la elección de masters en Andalucía. | Python |
 
 ---
 
