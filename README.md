@@ -37,7 +37,7 @@ Me interesa especialmente el análisis de datos y su aplicación a la ingenierí
 ## 🎓 Certificaciones
 - C1 Advanced (CAE) — Cambridge English · julio 2023
 - MATLAB Onramp — MathWorks Training Services · octubre 2026 · [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a8a5e95a-ddc7-48d9-b7e7-18a6fa57c5bf&)
--Simulink Onramp — MathWorks Training Services · octubre 2026 ·[verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bab09ac9-419f-4df5-b1c8-6c3e22455b94&)
+- Simulink Onramp — MathWorks Training Services · octubre 2026 ·[verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bab09ac9-419f-4df5-b1c8-6c3e22455b94&)
 ---
 
 ## 🌍 Idiomas
