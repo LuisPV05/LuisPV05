@@ -36,16 +36,11 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 - C1 Advanced (CAE) — Cambridge English 
 - MATLAB Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a8a5e95a-ddc7-48d9-b7e7-18a6fa57c5bf&)
 - Simulink Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bab09ac9-419f-4df5-b1c8-6c3e22455b94&)
-- GitHub Foundations — DataCamp · Formación preparatoria. [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/track/f4bbf4726c91f6fda54c5001e8130671cfee48fe?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-)
-- Introduction to Git — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/63e6e7f99deec4bdbb8a2c75948463d678300f96?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-)
-- Intermediate Git — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/ecf96d9bbb4fd8035277323ede13c56d3a3d919e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-)
-- Introduction to GitHub Concepts — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/9f2fef02a69c3056b7ddd29f66435381ae786ab1?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-)
-- Intermediate GitHub Concepts — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/3a84e5fb52748a4a9e0289bb396d9da6f96ed3c9?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
-)
+- GitHub Foundations — DataCamp · Formación preparatoria. [verificar certificado](certificados/Github Foundatios.pdf)
+- Introduction to Git — DataCamp [verificar certificado](certificados/Intermediate Git.pdf)
+- Intermediate Git — DataCamp [verificar certificado](certificados/Intermediate Git.pdf)
+- Introduction to GitHub Concepts — DataCamp [verificar certificado](certificados/Introduction to GitHub Concepts.pdf)
+- Intermediate GitHub Concepts — DataCamp [verificar certificado](certificados/Intermediate GitHub Concepts.pdf)
 ---
 
 ## 🌍 Idiomas
