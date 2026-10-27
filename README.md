@@ -40,7 +40,7 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 )
 - Introduction to Git — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/63e6e7f99deec4bdbb8a2c75948463d678300f96?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
 )
-- Intermediate Git — DataCamp [verificar certificado]([https://www.datacamp.com/courses/intermediate-git?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage](https://www.datacamp.com/completed/statement-of-accomplishment/course/ecf96d9bbb4fd8035277323ede13c56d3a3d919e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+- Intermediate Git — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/ecf96d9bbb4fd8035277323ede13c56d3a3d919e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
 )
 - Introduction to GitHub Concepts — DataCamp [verificar certificado](https://www.datacamp.com/completed/statement-of-accomplishment/course/9f2fef02a69c3056b7ddd29f66435381ae786ab1?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa
 )
