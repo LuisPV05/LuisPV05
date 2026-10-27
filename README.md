@@ -36,11 +36,11 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 - C1 Advanced (CAE) — Cambridge English 
 - MATLAB Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a8a5e95a-ddc7-48d9-b7e7-18a6fa57c5bf&)
 - Simulink Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bab09ac9-419f-4df5-b1c8-6c3e22455b94&)
-- GitHub Foundations — DataCamp · Formación preparatoria. [verificar certificado](/certificados/Github Foundatios.pdf)
-- Introduction to Git — DataCamp [verificar certificado](/certificados/Intermediate Git.pdf)
-- Intermediate Git — DataCamp [verificar certificado](/certificados/Intermediate Git.pdf)
-- Introduction to GitHub Concepts — DataCamp [verificar certificado](/certificados/Introduction to GitHub Concepts.pdf)
-- Intermediate GitHub Concepts — DataCamp [verificar certificado](/certificados/Intermediate GitHub Concepts.pdf)
+- GitHub Foundations — DataCamp · Formación preparatoria. [verificar certificado](/certificados/Github-Foundatios.pdf)
+- Introduction to Git — DataCamp [verificar certificado](/certificados/Intermediate-Git.pdf)
+- Intermediate Git — DataCamp [verificar certificado](/certificados/Intermediate-Git.pdf)
+- Introduction to GitHub Concepts — DataCamp [verificar certificado](/certificados/Introduction-to-GitHub-Concepts.pdf)
+- Intermediate GitHub Concepts — DataCamp [verificar certificado](/certificados/Intermediate-GitHub-Concepts.pdf)
 ---
 
 ## 🌍 Idiomas
