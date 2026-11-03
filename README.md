@@ -41,6 +41,7 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 - Intermediate Git — DataCamp [verificar certificado](/certificados/Intermediate-Git.pdf)
 - Introduction to GitHub Concepts — DataCamp [verificar certificado](/certificados/Introduction-to-GitHub-Concepts.pdf)
 - Intermediate GitHub Concepts — DataCamp [verificar certificado](/certificados/Intermediate-GitHub-Concepts.pdf)
+- Data Fundamentals - IBM SkillsBuild [verificar certificado](https://www.credly.com/badges/3289d890-e3e3-433e-9d8e-85e32058f2cb/public_url)
 ---
 
 ## 🌍 Idiomas
