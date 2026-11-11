@@ -37,11 +37,8 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 - MATLAB Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a8a5e95a-ddc7-48d9-b7e7-18a6fa57c5bf&)
 - Simulink Onramp — MathWorks Training Services [verificar certificado](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bab09ac9-419f-4df5-b1c8-6c3e22455b94&)
 - GitHub Foundations — DataCamp · Formación preparatoria. [verificar certificado](/certificados/GitHub-Foundations.pdf)
-- Introduction to Git — DataCamp [verificar certificado](/certificados/Intermediate-Git.pdf)
-- Intermediate Git — DataCamp [verificar certificado](/certificados/Intermediate-Git.pdf)
-- Introduction to GitHub Concepts — DataCamp [verificar certificado](/certificados/Introduction-to-GitHub-Concepts.pdf)
-- Intermediate GitHub Concepts — DataCamp [verificar certificado](/certificados/Intermediate-GitHub-Concepts.pdf)
 - Data Fundamentals - IBM SkillsBuild [verificar certificado](https://www.credly.com/badges/3289d890-e3e3-433e-9d8e-85e32058f2cb/public_url)
+- Data Analysis and Insights - IBM SkillsBuild [verificar certificado](https://www.credly.com/badges/a8804ed3-6454-4756-8008-5f2527f52ed8/public_url)
 ---
 
 ## 🌍 Idiomas
