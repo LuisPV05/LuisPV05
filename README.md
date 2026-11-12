@@ -24,7 +24,7 @@ Soy estudiante de último curso de Ingeniería Informática en la Universidad de
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [IV](https://github.com/LuisPV05/LuisMecanico) | Proyecto de Infraestructura Virtual (curso 2026-27). Desarrollo de una aplicación para gestionar citas en un taller mecánico, teniendo en cuenta la disponibilidad de recursos y la planificación de las operaciones.  | Go |
+| [LuisMecánico](https://github.com/LuisPV05/LuisMecanico) | Proyecto de Infraestructura Virtual (curso 2026-27). Desarrollo de una aplicación para gestionar citas en un taller mecánico, teniendo en cuenta la disponibilidad de recursos y la planificación de las operaciones.  | Go |
 | [Kmer](https://github.com/LuisPV05/MP_Luis) | Proyecto de Metodología de la Programación(curso 2023-24). Implementación de prácticas de programación en C++ centradas en el procesamiento de secuencias de ADN mediante Kmers | C++ |
 | [Irrgarten](https://github.com/LuisPV05/Irrgarten) | Proyecto de Programación y Diseño Orientado a Objetos(curso 2024-25). | Java |
 | [Suricara IDS](https://github.com/Carlitros20/suricata-ids-lab) | Proyecto de Servicios Web de Altas Prestaciones(curso 2025-26). IDS de red con Suricata sobre una granja web Docker (Nginx + 8×Apache): 37 reglas de detección propias y laboratorio de ataque con Kali Linux. | Suricata · Docker · iptables · OpenSSL |
